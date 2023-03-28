@@ -11,18 +11,14 @@ The application provides REST APIs for the following resources:
 
 ## To get started with this project, follow these steps:
 
-* Clone the repository:
+### Clone the repository:
 
 1. bash
 2. Copy code
 3. git clone https://github.com/VukanCekic/social-media-app-backend.git
-4. Install the dependencies:
 
-1. bash
-2. Copy code
-3. cd social-media-app-backend
-4. npm install
-5. Set up the environment variables:
+### Install the dependencies
+
 
 1. bash
 2. Copy code
@@ -38,3 +34,9 @@ This project was built using the following technologies:
 * MongoDB
 * Mongoose
 * JSON Web Token (JWT)
+
+Frontend Code
+https://github.com/VukanCekic/social-media-app-backend
+
+Live Website
+https://cryptocurrency-prices.onrender.com/
