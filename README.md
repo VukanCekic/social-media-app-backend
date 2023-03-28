@@ -7,7 +7,6 @@ The application provides REST APIs for the following resources:
 1. Users
 2. Profiles
 3. Posts
-4. Getting started
 
 ## To get started with this project, follow these steps:
 
