@@ -38,4 +38,4 @@ Frontend Code
 https://github.com/VukanCekic/social-media-app-backend
 
 Live Website
-https://cryptocurrency-prices.onrender.com/
+https://social-media-app-frontend.netlify.app/
